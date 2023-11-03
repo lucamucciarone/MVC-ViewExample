@@ -1,12 +1,10 @@
 package com.example.examplethymeleaf.controller;
 
 import org.springframework.ui.*;
+import org.springframework.web.bind.annotation.*;
+import org.springframework.web.servlet.*;
+import java.util.*;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.servlet.ModelAndView;
-
-import java.util.HashMap;
-import java.util.Map;
 
 @org.springframework.stereotype.Controller
 public class Controller {
