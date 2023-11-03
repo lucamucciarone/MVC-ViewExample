@@ -35,6 +35,4 @@ public class Controller {
         modelAndView.addObject("message", "messaggio con ModelAndView");
         return modelAndView;
     }
-
-
 }
